@@ -102,7 +102,7 @@
 				3F0CF1541BBF0B1E0069E146 /* Witness.swift */,
 				3F0CF1551BBF0B1E0069E146 /* Equatable.swift */,
 			);
-			name = SwiftCheck;
+			path = SwiftCheck;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -312,6 +312,7 @@
 				3F0CF1451BBF0A080069E146 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
