@@ -44,6 +44,8 @@
 		3F0CF1531BBF0B1E0069E146 /* TestOperators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestOperators.swift; sourceTree = "<group>"; };
 		3F0CF1541BBF0B1E0069E146 /* Witness.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Witness.swift; sourceTree = "<group>"; };
 		3F0CF1551BBF0B1E0069E146 /* Equatable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Equatable.swift; sourceTree = "<group>"; };
+		3F0CF1651BBF16620069E146 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		3F0CF1661BBF16800069E146 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		3F0CF1271BBF09CB0069E146 = {
 			isa = PBXGroup;
 			children = (
+				3F0CF1661BBF16800069E146 /* LICENSE */,
 				3F0CF13F1BBF0A080069E146 /* NegbTests */,
 				3F0CF1311BBF09CB0069E146 /* Products */,
 			);
@@ -86,6 +89,7 @@
 		3F0CF1461BBF0B0D0069E146 /* SwiftCheck */ = {
 			isa = PBXGroup;
 			children = (
+				3F0CF1651BBF16620069E146 /* LICENSE */,
 				3F0CF1471BBF0B1E0069E146 /* Arbitrary.swift */,
 				3F0CF1481BBF0B1E0069E146 /* Check.swift */,
 				3F0CF1491BBF0B1E0069E146 /* Gen.swift */,
