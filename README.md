@@ -13,4 +13,5 @@ in light of [a blog post](http://owensd.io/2015/09/03/dependent-types.html).
 
   [cpdt]: http://adam.chlipala.net/cpdt/
   [SwiftCheck]: https://github.com/typelift/SwiftCheck
-  [exploration]: http://example.com/
+  [exploration]: https://jeremywsherman.com/blog/2015/10/02/when-is-proof-not-proof/
+                 "When is a proof not a proof?"
